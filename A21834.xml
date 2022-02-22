@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A true copie of the proclamation lately published by the Queenes Maiestie, vnder the great seale of England, for the declaring of the sentence, lately giuen against the Queene of Scottes, in fourme as followeth</title>
+            <title>Proclamations. 1586-12-04</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1586</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21834</idno>
+            <idno type="STC">STC 8160</idno>
+            <idno type="STC">ESTC S115382</idno>
+            <idno type="EEBO-CITATION">99850601</idno>
+            <idno type="PROQUEST">99850601</idno>
+            <idno type="VID">15813</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21834)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15813)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A true copie of the proclamation lately published by the Queenes Maiestie, vnder the great seale of England, for the declaring of the sentence, lately giuen against the Queene of Scottes, in fourme as followeth</title>
+                  <title>Proclamations. 1586-12-04</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>3 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[1586]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; publication date from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary, --  Queen of Scots, 1542-1587 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:15813:1"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene. <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure> 
+               <g ref="char:leaf">❧</g> A true Copie of the Proclamation lately publiſhed by the Queenes Maieſtie, vnder the great Seale of England, for the declaring of the Sentence, lately giuen againſt the Queene of Scottes, in fourme as followeth.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">E</seg>Lizabeth, by the grace of God, Queene of England, France and Ire<g ref="char:EOLhyphen"/>land, defender of the Faith, &amp;c.</signed>
+            </opener>
+            <p>Whereas we were giuen to vnder<g ref="char:EOLhyphen"/>ſtand verie credibly, (though to our great griefe,) that diuers things were, and of late time had beene compaſſed, imagined and reſolute<g ref="char:EOLhyphen"/>ly intended, tending directly to the hurt and deſtruction of our Royal perſon, and to the ſubuerſion of the Eſtate of our Realme, by forrein inuaſions, &amp; rebellions at home, aſwell by the Queene of Scottes, remaining in our Realme vnder our Protection, as by many diuers other wicked perſons with her priuitie, who had freely confeſſed the ſame, and had th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reupon receiued open triall, Iudgement and Execution according to the lawes for their deſertes: And though, in verie trueth we were greatly and deepely grieued in our minde, to thinke or imagine that any ſuch vnnatural &amp; monſtrous Acts ſhould be either deuiſed, or willingly aſſeted vnto againſt vs, by her being a Princeſſe borne, and of our ſere and blood, and one alſo whoſe life &amp; honor we had many times before ſaued and preſerued: Yet were we ſo directly drawne to thinke all the ſame to be true, by the ſight and vnderſtanding of ſuch proofes, as were manifeſtly produced a<g ref="char:EOLhyphen"/>fore vs, vpon matters that had as wel proceeded from her ſelfe, as from the conſpirators themſelues, who voluntarilie and freelie without any coertion had confeſſed their conſpirations, both ioynt<g ref="char:EOLhyphen"/>ly with her, and directed by her, againſt our Perſon and our Realme, and therfore alſo we ſaw great reaſon, to thinke the ſame ouer daungerous, to be ſuffered to paſſe onwarde to take their full effecte. Wherefore, we were by ſundrie Lordes of our Nobilitie, and others our louing ſubiectes, earneſtly mooued and counſelled, to take vndelaied order, for the inquiſition and examination of all theſe dan<g ref="char:EOLhyphen"/>gerous enterpriſes, and conſpiracies by ſundrie waies directly auowed to be by the ſayde Queene of Scottes, againſt vs and our Realme certainely intended, and alſo to vſe all preſent meanes with expedition, to withſtand, or rather to preuent the ſame. And for that we were verie vnwilling to pro<g ref="char:EOLhyphen"/>ceede againſt her, conſidering her birth and Eſtate, by ſuch vſuall ſort as by the common lawes of the Realme, we might haue lawfullie done, which was, by inditement and arrainment by ordinarie Iuries: therefore, in reſpect both of our owne honour, and of her perſon, we yeelded, by good aduiſe giuen to vs, to proceede in the moſt honourable ſort that coulde be deuiſed within our Realme to the examination hereof, according to a late Acte of Parliament made the xxiii. day of Nouember, in the xxvii. yeere of our Reigne. Whereupon by our Commiſſion vnder our great Seale of Englande, bearing Date at our Caſtle of Windſor in our Countie of Barkſhire, the ſixt day of October nowe laſt paſt, we did for that purpoſe, according to the ſaide Statute, aſſigne, name, and appoynt all the Lordes and others of our Priuie counſaile, and ſo many other Earles and Barons Lordes of Par<g ref="char:EOLhyphen"/>liament, of the greateſt degree and moſt ancient of the Nobilitie of this our Realme, as with the
+<pb facs="tcp:15813:2"/>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lordes and others of our priuie counſell, made vp the nomber of fourtie and two, adding alſo thereto a further nomber, according to the tenour of the foreſaide Acte of Parliament, of certaine of the chiefeſt and other principall Iudges of the Courtes of Recorde at Weſtminſter, amounting in the whole to the number of fourtie and ſeuen, to examine all things compaſſed and imagined, ten<g ref="char:EOLhyphen"/>ding to the hurt of our Royall perſon, as well by the ſaide Queene of Scottes, by the name of Ma<g ref="char:EOLhyphen"/>rie, the daughter and heire of Iames the fifth, late King of Scottes, commonly called the Queene of Scottes &amp; Dowager of France, as by any other by her priuitie, &amp; all the circumſtances thereof, and thereupon, according to the tenor of y<hi rend="sup">e</hi> ſaid Act of Parliament, to giue ſentence or iudgement, as vpon good proofe the matter vnto them ſhould appeare, as by the ſame Commiſſion more fullie appeareth.</p>
+            <p>And where afterwards the more part of the ſayd Counſellers, Lords and Iudges in our ſaid Com<g ref="char:EOLhyphen"/>miſſion named, that is to ſay, the number of xxxvi. did in the preſence &amp; hearing of the ſayde Queene of Scots, where ſhe remained at our Caſtle of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oderinghaie, at diuers dayes and times in publique place, very exactly, vprightly, and with great deliberation, examine all the matters &amp; offences, where<g ref="char:EOLhyphen"/>of ſhe was charged and accuſed, tending to the dangers afore rehearſed and mentioned in our ſayde Commiſſion, and all the circumſtances thereof, &amp; heard alſo at large in all fauourable maner, what the ſame Queene did, or could ſay for her excuſe and defence in that behalfe: whereupon afterwards on the xxv. day of October nowe laſt paſt, all the ſayd Counſaile, Lords, and Iudges that had heard and examined the ſame cauſe in the ſaide Queenes preſence, as afore is mentioned, with one aſſent and conſent, after good deliberation, did giue their ſentence and iudgement in this ſort following:</p>
+            <p>That after the firſt day of Iune, in the ſeuen &amp; twentieth yeere of our reigne, and before the date of our ſaid Commiſſion, diuers things were compaſſed and imagined within this Realme of England, by Anthonie Babington and others, with the priuitie of the ſaide Mary, pretending title to the Crowne of this Realme of England, tending to the hurt, death and deſtruction of our Royall perſon:</p>
+            <p>And likewiſe, that after the ſame firſt day of Iune, and before the date of our ſaide Commiſſion, the ſaide Mary, pretending title to the ſame Crowne, had compaſſed and imagined within the ſame Realme, diuers things tending to the hurt, death and deſtruction of our royall perſon, contrary to the fourme of the ſaid Statute: which ſentence and iudgement, the ſame Lords and Commiſſioners haue with one full conſent cauſed to be put in writing, and duely engroſſed, with the whole proces of their proceedings thereto belonging, and haue ſubſcribed the ſame with their handes, as by a record thereof ſhewed to vs, more fully and largely doth appeare.</p>
+            <p>And whereas alſo, ſithence the ſame ſentence and Iudgement ſo giuen &amp; recorded, the Lordes and Commons in this preſent Parliament aſſembled, haue alſo at ſundrie times in open Parliament, heard and conſidered the principall euidences, proofes, and circumſtances, whereupon the ſame ſen<g ref="char:EOLhyphen"/>tence and Iudgement was grounded, and haue by their publique aſſent in Parliament affirmed the ſame to be a iuſt, lawfull and true ſentence, and ſo haue allowed and approued the ſame in wri<g ref="char:EOLhyphen"/>ting preſented vnto vs: and haue alſo notified to vs, howe deepely they did foreſee the great and ma<g ref="char:EOLhyphen"/>ny imminent dangers, which otherwiſe might and woulde growe to our perſon, and to the whole Realme, if this ſentence were not fully executed: and conſequently therefore, they did by their moſt humble and earneſt petitions in that behalfe, of one Accord, hauing acceſſe vnto vs (vpon their ſun<g ref="char:EOLhyphen"/>drie requeſtes) moſt inſtantly vpon their knees, pray, beſeeche, and with many reaſons of great force and importance, moue and preſſe vs, that the ſaid ſentence and Iudgement ſo iuſtly and duely giuen, and by them approued, as is aforeſaid, might (according to the expreſſe tenor of the ſaid Act of Parlia<g ref="char:EOLhyphen"/>ment by our Proclamation vnder our great Seale be declared and publiſhed, and the ſame alſo finally executed.</p>
+            <p>But after ſuch moſt earneſt requeſt, ſo made to vs from all the ſaid Lordes and Commons in Par<g ref="char:EOLhyphen"/>liament, they perceiuing by our owne ſpeeches &amp; anſweres, howe deepely we were grieued to heare of theſe horrible and vnnatural attempts and actions of that Queene, whoſe many former offences, manifeſtly and daungerouſly committed againſt vs, our Crowne and Realme, we had ouerpaſſed
+<pb facs="tcp:15813:3"/>with our ouer great clemencie, contrary to the many aduices and requeſtes of our Subiects, aſwell in Parliament as otherwiſe: and therefore they alſo, vnderſtanding from our ſelfe, howe deſirous we were to haue ſome other meanes deuiſed by them in their ſeueral places of Parliament, to with<g ref="char:EOLhyphen"/>ſtand theſe miſchiefes intended both againſt our ſelfe, and the publique quiet ſtate of our Realme, &amp; ſuretie of our good ſubiects, then by execution of the foreſayde ſentence, as was required: they did after their ſundry conſultations apart, and conferences ioyntly with one accorde, in the names of all the Lordes of Parliament, euen by the particular votes of them all aſſembled, and alſo of the Com<g ref="char:EOLhyphen"/>mons with one vniuerſal aſſent, repreſenting the State of all our Realme, at their ſeueral times of acceſſe vnto vs, alledge, declare, &amp; proteſt, that vpon their long, many, &amp; aduiſed conſultations &amp; con<g ref="char:EOLhyphen"/>ferences by our commandement, and for our ſatiſfaction in that behalfe had, they coulde not by any meanes finde or deuiſe, howe the ſuertie of our Royall perſon, and the preſeruation of themſelues and their poſteritie, with the good ſtate of the Realme, might be prouided for and continued, without the publication and due execution of the ſayd ſentence.</p>
+            <p>Whereupon, being not onely moued to our griefe, but alſo ouercome with the earneſt re<g ref="char:EOLhyphen"/>queſtes, declarations, and important reaſons of all our ſayde Subiects, the Nobles and Com<g ref="char:EOLhyphen"/>mons of our Realme, whoſe iudgement, knowledge, and naturall care of vs, and the whole Realme, wee knowe doeth farre ſurmount all others being not ſo intereſſed therein, and ſo iuſt<g ref="char:EOLhyphen"/>ly to bee eſteemed: and perceyuing alſo the ſayde ſentence to haue bene honourably, lawfully and iuſtly giuen, agreeable to Iuſtice and to the Lawes of our Realme: we did yeelde, and doe according to the ſayde Statute by this our Proclamation vnder our great Seale of Englande, de<g ref="char:EOLhyphen"/>clare, notifie, and publiſh to all our louing Subiects, and other perſons whatſoeuer, that the ſayde ſentence and Iudgement is giuen in maner aforeſayde, to the intent, that they and euery of them, by this our Proclamation may haue ful vnderſtanding &amp; knowledge thereof. We do alſo wil you, that you doe returne this our Proclamation into our Court of Chauncerie, as ſpeedily as you may conue<g ref="char:EOLhyphen"/>niently, with the place &amp; time of the proclayming thereof thereupon indorſed, whereof fayle you not.</p>
+            <closer>
+               <dateline>In witneſſe whereof, we haue cauſed this our Proclamation to bee made Patent, and ſealed with the great Seale of England. At our Manor of Richmont <date>the iiii. day of December, the xxix. yeere of our Reigne, and in the yeere of our Lord God, <hi>1586.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Chriſtopher Barker, Printer to the Queenes moſt ex<g ref="char:EOLhyphen"/>cellent Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
